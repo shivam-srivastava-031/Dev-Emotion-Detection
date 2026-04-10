@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+transformers
+torch
+pydantic
+datasets
+scikit-learn
+numpy
